@@ -4,7 +4,7 @@ A modern web application to search GitHub repositories using the GitHub API. Bui
 
 ## Features
 
-- Search GitHub repositories by name, description, or topic
+- Search GitHub repositories by name, or description.
 - Sort results by stars, forks, or recently updated
 - Paginate through results (up to 1000 repositories)
 - Debounced input for efficient searching
